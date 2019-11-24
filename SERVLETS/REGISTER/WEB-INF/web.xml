@@ -1,0 +1,13 @@
+<web-app>
+	<welcome-file-list>
+	<welcome-file>Registration.html</welcome-file>
+	</welcome-file-list>
+	<servlet>
+	<servlet-name>l</servlet-name>
+	<servlet-class>RegisterServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+	<servlet-name>l</servlet-name>
+	<url-pattern>/register.com</url-pattern>
+	</servlet-mapping>
+</web-app>
